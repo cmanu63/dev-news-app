@@ -1,3 +1,5 @@
+This project displays news from Hacker News API. The posts can be sorted ascending/descending by Title/Author/Number of Comments/Number of Points. The project illustrates basic techiques of state management, life-cycle methods, using of HOCs and type checking with PropTypes. The data is fetched from the API using axios.
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
